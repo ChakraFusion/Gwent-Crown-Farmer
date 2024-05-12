@@ -1,5 +1,5 @@
 # Gwent Crown Farmer
- fully automatic AHK bot for farming all the bonus Journey Crowns and leveling up 
+ fully automatic AHK Gwent bot for farming all the bonus Journey Crowns and leveling up 
 
 Features:
 - works on Gwent 10.9+
