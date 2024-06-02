@@ -8,6 +8,9 @@ Features:
 - scheduled farming end time
 - only supports thrive cards so far, specifically only this deck: https://www.playgwent.com/de/decks/a31956103bce7a0586836d5091cdac4c
 
+  ![image](https://github.com/ChakraFusion/Gwent-Crown-Farmer/assets/112588066/59c16d80-a29e-4141-8bc3-33aaf00e3593)
+
+
 . Language needs to be set to German !
 . board movement disabled
 . default coin or cyberpunk coin are supported (better choose the cyberpunk coin if you own it)
